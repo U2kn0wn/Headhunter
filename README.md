@@ -1,5 +1,9 @@
 # HeadHunter – Security Header Scanner with PoC Screenshot Generator
 
+### Note
+- crawler.py or dynamic_crawler.py is another tool that I created for my workflow you can find them on https://github.com/U2kn0wn/dynamic_web_crawler
+
+
 ## Overview
 
 `headhunter.py` is a post-processing security validation tool that uses URLs collected from:
